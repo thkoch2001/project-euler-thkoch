@@ -1,0 +1,3 @@
+- [[http://projecteuler.net][project Euler]]
+- [[https://code.google.com/p/projecteuler-solutions/wiki/ProjectEulerSolutions][ProjectEulerSolutions]]
+- [[http://www.haskell.org/haskellwiki/Euler_problems][haskellwiki/Euler_problems]]
